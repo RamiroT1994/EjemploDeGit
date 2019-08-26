@@ -1,0 +1,35 @@
+Clase de Git
+
+-Metodo de ordenamiento y almacenamiento de codigo
+-Herramienta para versionado de software
+-Utilizacion de la consola (Se puede a traves de la pagina web)
+
+-Cada modificacion de codigo que se sube a GitHub se guarda.
+-Se puede comparar codigo de un mismo programa.
+
+-Shift + Click derecho
+-Abrir Consola de comandos
+-Utilizo el comando git.
+-Cierro
+-Click derecho + Git bash here.
+-Abrira otro tipo de consola, que trabaja igual, pero es la que utilizaremos.
+-Utilizo comando git
+-Aparecera nuevamente una explicacion de cada comando.
+
+
+Comandos:
+-git clone: clona un repositorio de github dentro de la carpeta.
+
+-git status: muestra el estado ACTUAL del repositorio.
+Si aparece en rojo es que no esta actualizado.
+
+-git add .: agrega los nuevos archivos. "add ." agrega todo. Si quiero agregar solo los txt es "git add .txt",etc.
+Mas que agregarlos, los sigue. Es necesario hacerlo para poder subir los cambios.
+
+-git commit -m "mensaje de commit": Guarda (copia en nuestra maquina) los cambios hechos hasta ahora.
+Una copia local. En nuestra maquina.
+
+-git push: Sube una copia de mi repositorio actual local
+
+
+
